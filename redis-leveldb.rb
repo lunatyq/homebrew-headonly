@@ -1,3 +1,4 @@
+require 'formula'
 class RedisLeveldb < Formula
   head 'https://github.com/KDr2/redis-leveldb'
 
