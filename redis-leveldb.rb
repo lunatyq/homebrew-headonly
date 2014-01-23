@@ -1,6 +1,6 @@
 require 'formula'
 class RedisLeveldb < Formula
-  head 'git://git@github.com:KDr2/redis-leveldb'
+  head 'git://github.com/KDr2/redis-leveldb'
 
   depends_on 'libev'
   depends_on 'gmp'
